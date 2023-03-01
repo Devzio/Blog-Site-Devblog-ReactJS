@@ -1,5 +1,5 @@
 # react-blog-site-devblog
- A Simple Blog Site with CRUD functionality made with ReactJS
+ A Simple Blog Site made with ReactJS
 
  How to run:
  1) Open File with VSCode
